@@ -1,0 +1,25 @@
+{
+  "type": "panel",
+  "name": "Workshop Panel",
+  "id": "workshop-panel",
+
+  "dataFormats": ["time_series"],
+
+  "info": {
+    "description": "Grafana panel for rss feeds",
+    "author": {
+      "name": "Grafana Labs",
+      "url": "https://grafana.com"
+    },
+    "keywords": ["Workshop Panel"],
+    "links": [],
+    "screenshots": [],
+    "version": "0.3.0",
+    "updated": "2018-12-06"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.0.x",
+    "plugins": []
+  }
+}
